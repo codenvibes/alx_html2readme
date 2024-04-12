@@ -1,7 +1,7 @@
 <h1 align="center"><b>ALX WEBPAGE-TO-README CONVERTER</b></h1>
 <div align="center"><code>Python</code></div>
 
-<br>
+<br><p align="center">※※※※※※※※※※※※</p><br>
 
 This Python script is designed to simplify the process of converting webpages of school projects into formatted README files for easier documentation. Instead of manually writing READMEs from scratch, you can download the webpage of the project as an HTML file into a suitable folder and run this script, which will process the HTML file and produce a formatted README with the same information.
 
@@ -18,6 +18,8 @@ This Python script is designed to simplify the process of converting webpages of
    Replace `<repository_url>` with the URL of this repository.
 
 2. **Download HTML File**: Save the webpage of the project as an HTML file in a suitable folder.
+
+<img src = >
 
 3. **Run the Script**: Execute the `main.py` script provided in this repository. You can do this by running the following command in your terminal or command prompt:
 
@@ -46,7 +48,5 @@ This Python script is designed to simplify the process of converting webpages of
 
 <br>
 
-## Example
 
-For a demonstration of how to use the script, refer to the provided `example.html` file and run the script with its path.
-
+<br><p align="center">※※※※※※※※※※※※</p><br>
