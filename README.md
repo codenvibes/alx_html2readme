@@ -27,7 +27,7 @@ This Python script is designed to simplify the process of converting webpages of
 
 2. **Download HTML File**: Save the webpage of the project as an HTML file in a suitable folder.
 
-<img src = >
+<div align="center"><img src ="https://github.com/codenvibes/alx_html2readme/blob/master/images/step_2.png"></div>
 
 3. **Run the Script**: Execute the `main.py` script provided in this repository. You can do this by running the following command in your terminal or command prompt:
 
