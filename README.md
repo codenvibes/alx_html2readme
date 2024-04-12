@@ -1,4 +1,6 @@
-# ALX Webpage-to-README Converter
+<h1 align="center"><b>ALX WEBPAGE-TO-README CONVERTER</b></h1>
+<div align="center"><code>Python</code></div>
+
 
 This Python script is designed to simplify the process of converting webpages of school projects into formatted README files for easier documentation. Instead of manually writing READMEs from scratch, you can download the webpage of the project as an HTML file into a suitable folder and run this script, which will process the HTML file and produce a formatted README with the same information.
 
