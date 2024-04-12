@@ -9,17 +9,25 @@ This Python script is designed to simplify the process of converting webpages of
 
 ## Usage
 
-1. **Download HTML File**: Save the webpage of your school project as an HTML file in a suitable folder.
-
-2. **Run the Script**: Execute the `main.py` script provided in this repository. You can do this by running the following command in your terminal or command prompt:
+1. **Clone the Repository**: Clone this repository to your local machine by running the following command in your terminal or command prompt:
 
    ```bash
-   python main.py
+   git clone <repository_url>
    ```
 
-3. **Input HTML File Path**: When prompted, enter the path to the HTML file you downloaded in step 1.
+   Replace `<repository_url>` with the URL of this repository.
 
-4. **Generate README**: The script will process the HTML file and generate a formatted README.md file in the same folder.
+2. **Download HTML File**: Save the webpage of the project as an HTML file in a suitable folder.
+
+3. **Run the Script**: Execute the `main.py` script provided in this repository. You can do this by running the following command in your terminal or command prompt:
+
+   ```bash
+   python3 main.py
+   ```
+
+4. **Input HTML File Path**: When prompted, enter the path to the HTML file you downloaded in step 2.
+
+5. **Generate README**: The script will process the HTML file and generate a formatted README.md file in the same folder.
 
 <br>
 
