@@ -37,7 +37,11 @@ This Python script is designed to simplify the process of converting webpages of
 
 4. **Input HTML File Path**: When prompted, enter the path to the HTML file you downloaded in step 2.
 
+<div align="center"><img src ="https://github.com/codenvibes/alx_html2readme/blob/master/images/step_4.png"></div>
+
 5. **Generate README**: The script will process the HTML file and generate a formatted README.md file in the same folder.
+
+<div align="center"><img src ="https://github.com/codenvibes/alx_html2readme/blob/master/images/step_5.png"></div>
 
 <br>
 
