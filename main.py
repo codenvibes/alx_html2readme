@@ -40,7 +40,7 @@ def html2md(html_content):
                 tag_section += f"<code>{span_list[_]}</code> "
         md_content += f'<div align="center">{tag_section}</div>\n'
 
-    md_content += "\n"
+    md_content += "\n<!-- <br>\n<hr>\n<h3><a href=" ">Notes</a></h3>\n<hr> -->\n\n"
 
     for h2 in soup.find_all("h2"):
         md_content += ("\n<!--==================================================-->\n")
